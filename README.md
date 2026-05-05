@@ -48,7 +48,7 @@ Pour ce lab, nous avons conservé l'application **SSL Pinning Demo** (`tech.http
 ### 5.1 Lancement du Serveur Frida
 Le serveur doit être lancé avec les droits `su` pour pouvoir monitorer les processus système et injecter du code dans l'application.
 
-![Démarrage frida-server](./img-lab15-sec/4.png)
+![Démarrage frida-server](./img-lab16-sec/4.png)
 > **Figure 5 :** Initialisation du pont de communication entre le PC et l'Android Runtime (ART).
 
 ### 5.2 Exploration et Bypass SSL
